@@ -4,3 +4,8 @@
 pip-selfcheck.json
 /share/
 src/__pycache__/
+
+*.cfg
+*.epub
+*.txt
+*.zip
